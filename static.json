@@ -1,0 +1,9 @@
+{
+  "root": "build/",
+  "routes": {
+    "/farms/*": "index.html",
+    "/nests/*": "index.html",
+    "/farms": "index.html",
+    "/nests": "index.html"
+  }
+}
